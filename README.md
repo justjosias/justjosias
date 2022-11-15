@@ -1,6 +1,6 @@
 ### Greetings and Salutations
 
-I am currently working on various [cooperative technology](cooperativetechnology.codeberg.page/), especially related to [Gemini](https://gemini.circumlunar.space/).
+I have been working on [Cooperative Technology](https://cooperativetechnology.codeberg.page/), especially related to [Gemini](https://gemini.circumlunar.space/).
 
 Other places to find my code:
 - [Codeberg](https://codeberg.org/Josias) (main)
